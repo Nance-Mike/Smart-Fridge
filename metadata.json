@@ -1,0 +1,6 @@
+{
+  "name": "Smart Fridge & Culinary Assistant",
+  "description": "A sleek culinary assistant app that analyzes photos of your open fridge, drafts recipes with difficulty ratings, prep times, and calories, provides hands-free read-aloud step cooking, and manages shopping lists.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
